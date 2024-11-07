@@ -1,3 +1,7 @@
-Hi, I’m Xlobex. I do random stuff, so buckle up!
+Adventure text based game
 
-This project is a simple, adventure text-based game written in python, if you guys like it, please let me know—maybe ill implement a GUI or more stories, idk ¯\_(ツ)_/¯
+This project is a simple adventure text based game, it requires from you to input options u are offered and explore the map
+
+mybe i add gui
+
+
